@@ -1,0 +1,13 @@
+{
+  "source": "BigQuery_Warehouse",
+  "destination": "Braze_API",
+  "mapping": {
+    "user_id": "external_id",
+    "email": "email",
+    "clean_city": "current_location",
+    "total_lifetime_value": "ltv_score",
+    "braze_segment_tag": "active_campaign_segment"
+  },
+  "sync_mode": "upsert",
+  "frequency": "real-time_webhook"
+}
