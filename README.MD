@@ -12,4 +12,4 @@ This repository contains a technical prototype designed for the **Compare Club**
 ## 🔗 Engineering Context & Deep Dive
 While this folder provides a targeted solution, it is a subset of my larger work in **Modern Data Stack (MDS) orchestration**. 
 
-For a comprehensive look at how I architected a full-scale **BigQuery-to-CRM pipeline**—including advanced error handling and multi-channel synchronization—please explore my flagship project here: **[INSERT LINK TO YOUR OTHER PROJECT HERE]**.
+For a comprehensive look at how I architected a full-scale **BigQuery-to-CRM pipeline**—including advanced error handling and multi-channel synchronization—please explore my flagship project here: https://github.com/shashikumard27-dotcom/serverless-marketing-pipeline/tree/main
